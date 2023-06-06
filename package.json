@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "urllib": "^3.16.1",
+    "xhr2": "^0.2.1"
+  }
+}
