@@ -1,2 +1,2 @@
 # digest-api-implementation
-Consuming api with a Digest authentication security
+Consuming api with a Digest authentication security (Javascript/Nodejs)
